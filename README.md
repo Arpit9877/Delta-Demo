@@ -1,2 +1,2 @@
 # Delta-Demo
-practice of git &amp; github
+This is demo for git &amp; github
